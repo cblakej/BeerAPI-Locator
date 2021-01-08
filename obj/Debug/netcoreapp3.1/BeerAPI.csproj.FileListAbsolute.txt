@@ -1,0 +1,15 @@
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.exe
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.deps.json
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.runtimeconfig.json
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.runtimeconfig.dev.json
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.dll
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\BeerAPI.pdb
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.csprojAssemblyReference.cache
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.AssemblyInfoInputs.cache
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.AssemblyInfo.cs
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.csproj.CoreCompileInputs.cache
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.csproj.CopyComplete
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.dll
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.pdb
+C:\Users\cblak\OneDrive\Desktop\repos\BeerAPI\obj\Debug\netcoreapp3.1\BeerAPI.genruntimeconfig.cache

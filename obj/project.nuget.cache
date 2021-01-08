@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FsvQrLJjV64Vs9gqpi6xwQL5FsjdBSPOMoPlpS91sl7zhk6vKSzDBWPRLbnTvpKKjsqOZ1M3IlN9/iN3BXxe3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cblak\\OneDrive\\Desktop\\repos\\BeerAPI\\BeerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cblak\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
